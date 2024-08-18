@@ -12,6 +12,7 @@ const Home = () => {
     <Layout>
       <Section grid>
         <Hero />
+        {/* Background Square design */}
         <BgAnimation />
       </Section>
       <Projects />
