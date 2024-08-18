@@ -4,7 +4,7 @@
 
 Web Developer 
 
-Portfilio website made using: NextJS and styled-component
+Portfilio website made using: React and styled-component
 
 Setup:
 - run ```npm i && npm start```
